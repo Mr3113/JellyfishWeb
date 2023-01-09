@@ -1,4 +1,3 @@
-# Smart Agency de Themes Bootstrap (https://themesbootstrap.com.mx/)
+# Jellyfish Dance Company Web
 
-Creado por Diego Velázquez
-http://templune.com/
+Creado por Mario Marcos Ramón
